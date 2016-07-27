@@ -71,8 +71,8 @@ Courses | Duration | Effort
 [Programming Challenges (Skiena)](http://www3.cs.stonybrook.edu/~skiena/392/) | 14 weeks | 6-8 hours/week
 [Mathematical Logic and Algorithms Theory](https://iversity.org/en/courses/mathematical-logic-and-algorithms-theory) | 7 weeks | 3-4 hours/week
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) | 5 weeks | 4-8 hours/week
-[Algorithms on Graphs and Trees](https://www.coursera.org/learn/algorithms-on-graphs-and-trees/) | - | -
-[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/) | - | -
+[Algorithms on Graphs and Trees](https://www.coursera.org/learn/algorithms-on-graphs-and-trees/) | 5 weeks | 3-4 hours/week
+[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/) | 4 weeks | 4-8 hours/week
 [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity/) | - | -
 [Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1/) | - | -
 [Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2/) | - | -
